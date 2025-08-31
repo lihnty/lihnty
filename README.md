@@ -1,39 +1,61 @@
-# 👋 Assalamu'alaikum, I'm Lihnty
-
-💻 16 y/o Frontend Developer & MERN Stack Learner  
-🌱 Sedang belajar React, Laravel, dan Authentication MERN  
-📖 Santri & juga suka explore teknologi baru  
+<!-- Banner Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AEFFF&center=true&vCenter=true&width=1000&lines=👋+Assalamu'alaikum,+I'm+Lihnty;🚀+Frontend+Developer+%26+MERN+Stack+Learner;📖+Santri+%7C+Coding+%7C+Qur'an;🔥+Always+Learning+New+Things" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## ⚡ About Me
+- 💻 16 y/o **Frontend Developer**
+- 🌱 Learning **React, Laravel & MERN Authentication**
+- 📖 Santri, also exploring **Animation in Al-Qur'an**
+- 🕋 Balance between **Coding & Deen**
+
+---
+
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,laravel,mysql,git,github,vscode,figma&perline=6" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lihnty&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=lihnty&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lihnty&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lihnty&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihnty&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihnty&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lihnty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lihnty&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmd.sfirdaus)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)  
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### ✨ Fun Fact
-Aku biasa belajar coding pagi hari 🌅 biar fresh, dan sekarang lagi explore animasi dalam Al-Qur'an 📖✨
+## 🌀 Fun Zone
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🌊 Wave Animation
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AEFFF&height=120&section=footer"/>
+</p>
