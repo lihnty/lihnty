@@ -1,6 +1,6 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AEFFF&center=true&vCenter=true&width=1000&lines=👋+Assalamu'alaikum,+I'm+Lihnty;🚀+Frontend+Developer+%26+MERN+Stack+Learner;📖+Santri+%7C+Coding+%7C+Qur'an;🔥+Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AEFFF&center=true&vCenter=true&width=1000&lines=👋+Assalamu'alaikum,+I'm+Lihnty;🚀+Frontend+Developer+%26+MERN+Stack+Learner;📖+Santri+%7C+Coding+%7C+Qur'an;🔥+Always+Learning+New+Things](https://i.pinimg.com/736x/1c/b6/52/1cb6528dfe4bf0ebffbacac60cda295d.jpg)" alt="Typing Animation" />
 </p>
 
 ---
