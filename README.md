@@ -1,6 +1,6 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/c8/bf/54/c8bf5463ee12115ced701375c3c666c9.jpg" alt="Typing Animation" />
+  <img src="https://i.pinimg.com/1200x/eb/24/13/eb24130747101feb6878aeb9b09854ec.jpg" alt="Typing Animation" />
 </p>
 
 ---
