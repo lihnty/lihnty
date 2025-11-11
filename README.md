@@ -1,7 +1,5 @@
 <!-- Banner Animasi -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/eb/24/13/eb24130747101feb6878aeb9b09854ec.jpg" alt="Nonee" />
-</p>
+
 
 ---
 
