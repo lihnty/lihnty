@@ -57,3 +57,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0AEFFF&height=120&section=footer"/>
 </p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark" alt="roadmap.sh"/></a>
