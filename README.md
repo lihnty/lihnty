@@ -1,7 +1,7 @@
 <!-- Banner Animasi -->
 <p style="text-align: center;">
   <img 
-    src="https://i.pinimg.com/736x/9d/67/82/9d6782eee044e8bbb6ad814b20d39019.jpg"
+    src="https://i.pinimg.com/736x/c3/3e/f7/c33ef7fae681001b69490a2427312f4c.jpg"
     style="max-width: 100%; height: auto;"
     alt="Gambar"
   />
