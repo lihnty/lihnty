@@ -1,6 +1,10 @@
 <!-- Banner Animasi -->
-<p>
-  <img src="https://i.pinimg.com/736x/9d/67/82/9d6782eee044e8bbb6ad814b20d39019.jpg" />
+<p style="text-align: center;">
+  <img 
+    src="https://i.pinimg.com/736x/9d/67/82/9d6782eee044e8bbb6ad814b20d39019.jpg"
+    style="max-width: 100%; height: auto;"
+    alt="Gambar"
+  />
 </p>
 
 ---
