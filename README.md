@@ -33,6 +33,7 @@
 ## 🏆 GitHub Achievements
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark&roadmaps=vue%2Cfrontend%2Creact%2Cjavascript" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark&roadmaps=backend-beginner%2Cgit-github" alt="roadmap.sh"/></a>
 </p>
 
 ---
@@ -56,4 +57,4 @@
 ## 🌊 Wave Animation
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0AEFFF&height=120&section=footer"/>
-</p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark&roadmaps=vue%2Cfrontend%2Creact%2Cjavascript" alt="roadmap.sh"/></a>
+</p>
