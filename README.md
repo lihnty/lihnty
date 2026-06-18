@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lihnty&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark&roadmaps=vue%2Cfrontend%2Creact%2Cjavascript" alt="roadmap.sh"/></a>
 </p>
 
 ---
@@ -56,6 +56,4 @@
 ## 🌊 Wave Animation
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0AEFFF&height=120&section=footer"/>
-</p>
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark" alt="roadmap.sh"/></a>
+</p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6726cd8f31d65c235d4b9f55?variant=dark&roadmaps=vue%2Cfrontend%2Creact%2Cjavascript" alt="roadmap.sh"/></a>
