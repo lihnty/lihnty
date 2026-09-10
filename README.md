@@ -1,7 +1,4 @@
 <!-- Banner Animasi -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/b1/1a/05/b11a05426337a68949b543a571a449d1.jpg" width="800" />
-</p>
 
 ---
 
